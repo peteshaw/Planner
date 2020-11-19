@@ -1,5 +1,11 @@
+daily:
+    track steps
+    track weight
+    update cronometer
+    update timesheet - workdays
+    
 inbox:
-
+    update tin
 trailer:
     ✔ order new propane hose @done(20-10-21 20:01)
     ✔ order roof top bike rack @done(20-10-21 20:01)
