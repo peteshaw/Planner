@@ -1,0 +1,25 @@
+inbox:
+
+trailer:
+    ✔ order new propane hose @done(20-10-21 20:01)
+    ✔ order roof top bike rack @done(20-10-21 20:01)
+finance:
+    ✔ pay off trailer @done(20-10-21 20:01)
+        ✔ canbcel auto payment via nwfcu processing - check back later 20200910 @done(20-10-21 20:01)
+        ✔ scheduled payment of $4890 to Patriot FCU - pmt sent effective 9/15 @done(20-09-08 21:31)
+        ✔ wait for paper confirmation of balance, should be around October 5 @done(20-10-21 20:01)
+    ✔ download recent transactions - for chase, citi, penfed, nwfcu @done(20-10-21 20:01)
+    ✔ stop payments for subaru @done(20-10-21 20:01)
+    ✔ stop payments fodr trailer @done(20-10-21 20:01)
+    ☐ start tracking budget for household
+verticalMame:
+    outcome: I want to be able to play arcade games on my mame cabinett using a raspberry pi
+    ☐ setup recalbox/retropie on my pi
+    ☐ use an image
+    ☐ rotate display
+    ☐ add curated games
+    ☐ configure controllers
+    ☐ add curated games
+    ☐ hide non mame systems
+home-server:
+    

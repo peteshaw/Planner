@@ -1,0 +1,118 @@
+✔ step 6 - incremental @done(20-09-30 17:22) @project(Migrations)
+✔ apply logo fix to site and subsites @done(20-09-30 17:22) @project(Migrations)
+✔ check migration report for workflows and migrate @done(20-09-30 17:22) @project(Migrations)
+✔ check infopath forms @done(20-09-30 17:22) @project(Migrations)
+✔ fix page layouts @done(20-09-30 17:22) @project(Migrations)
+✔ compate content @done(20-09-30 17:22) @project(Migrations)
+✔ release to user testing @done(20-09-30 17:22) @project(Migrations)
+✔ OCFO Intranet - notify mike before running incremental-20200909 @done(20-09-21 17:44) @project(Tickets)
+✔ need to update my EP account @done(20-09-21 17:44) @project(Tickets)
+✔ #118871 - Accordion menu for for Grants Manual @done(20-09-21 15:51) @project(Tickets)
+✔ #18815 Frank MacCormack having issues with large sharepoint list @done(20-09-21 15:14) @project(Tickets)
+✔ #18885 - recopy web site @done(20-09-21 15:12) @project(Tickets)
+✔ recopy permissions - overwrite existing ones. @done(20-09-18 14:27) @project(Migrations)
+✔ step 5 - webparts @done(20-09-18 14:27) @project(Migrations)
+✔ run migration jobs @done(20-09-18 14:27) @project(Migrations)
+✔ step 1 - layouts @done(20-09-03 16:33) @project(Migrations) @project(Migrations)
+✔ step 2 - structure @done(20-09-08 13:09) @project(Migrations) @project(Migrations)
+✔ step 3 - permisisons @done(20-09-09 16:41) @project(Migrations) @project(Migrations)
+✔ step 4 - content @done(20-09-14 13:44) @project(Migrations)
+✔ run incremental - MWCT6A10 @done(20-09-11 17:54) @project(Migrations)
+✔ set to read only @done(20-09-11 18:39) @project(Migrations)
+✔ set 20200914 GOLIVE banner on old site @done(20-09-14 20:26) @project(Migrations)
+✔ run incremental - MWCT6A10 @done(20-09-11 17:53) @project(Migrations)
+✔ set to read only @done(20-09-11 18:40) @project(Migrations)
+✘ 20200914 set GOLIVE banner on old site @cancelled(20-09-15 12:55) @project(Migrations)
+✔ run incremental - MWCT6A10 @done(20-09-11 17:52) @project(Migrations)
+✔ set to read only @done(20-09-11 18:42) @project(Migrations)
+✔ 20200914 set GOLIVE banner on old site @done(20-09-14 20:37) @project(Migrations)
+✔ Accordion Web Part migration onenote:20200903 @done(20-09-10 17:51) @project(Tickets)
+  ✔ check size of existing site @done(20-09-02 18:20) @project(Migrations)
+  ✔ create SPO site @done(20-09-03 13:30) @project(Migrations)
+  ✔ remove metadata from 2010 site @done(20-09-03 13:30) @project(Migrations)
+  ✔ applyFEMAtemplate to SPO site @done(20-09-03 13:30) @project(Migrations)
+  ✔ create migration jobs @done(20-09-03 16:29) @project(Migrations)
+      migrations running on MWCT6A9   
+      ✔ Privacy Training (Privacy at DHS: Protecting Personal Information) @done(20-09-03 17:38) @project(Other)
+  https://www.dhs.gov/xlibrary/privacy_training/index.htm
+      ✔ Insider Threat Training @done(20-09-08 13:12) @project(Other)
+  https://securityawareness.usalearning.gov/itawareness/index.htm 
+      ✔ #18890 increase the size of femar3sp @done(20-09-09 16:46) @project(Tickets)
+      ✔ #18794 create web site for Jazminne mcKinney @done(20-09-02 18:15) @project(Tickets)
+  Web site has been created and permissions assigned
+      ✔ need to create a wiki library @done(20-09-02 18:15) @project(Tickets)
+      ✔ and notify user that this is done. @done(20-09-02 18:15) @project(Tickets)
+      ✔ #18815 help with infopath and ms-access on migrated list @done(20-09-02 15:52) @project(Tickets)
+  https://usfema.sharepoint.com/teams/MS/AppropriationLapse/Lists/Appropriations%20Lapse%20Status%20List/FIMA.aspx
+      ✔ design access for users of the EDAMI dev site @done(20-09-02 15:42) @project(Tickets)
+      still going back and forth with Joanne on this.
+      Appropriations Status Lapse List w/15k records - needs to have infopath fixed and for the list to be able to be managed
+      ✔ Fix infopath form @done(20-09-01 21:03) @project(Tickets)
+  20200904-https://usfema.sharepoint.com/sites/oppa
+      ✔ run incremental on  - MWCT6A10 @done(20-09-08 13:05)
+      ✔ set to read only @done(20-09-08 13:05)
+  20200904-https://usfema.sharepoint.com/teams/resgpd
+      ✔ run incremental on @done(20-09-08 13:05)
+      ✔ set to read only @done(20-09-08 13:05)
+  20200904-https://intranet.fema.net/org/oa ==> https://usfema.sharepoint.com/sites/oai
+      Migration is on MWCT2W5
+      ✔ Start Incremental Migration @done(20-09-08 13:02)
+      ✔ Set 2010 site to read only @done(20-09-08 13:02)
+  20200904-https://intranet.fema.net/org/oea ==> https://usfema.sharepoint.com/sites/ea 
+      Migration is on MWCT2W5
+      ✔ Start Incremental Migrtaion @done(20-09-08 13:02)
+      ✔ Set 2010 site to read only @done(20-09-08 13:02)
+  tuesday 9/8
+      ✔ set GOLIVE banner ==> https://intranet.fema.net/org/oppa @done(20-09-09 13:35)
+      ✔ set GOLIVE banner ==> https://intranet.fema.net/org/pnp/gpd @done(20-09-09 13:35)
+      ✔ set GOLIVE banner ==> https://intranet.fema.net/org/oa @done(20-09-09 13:35)
+      ✔ set GOLIVE banner ==> https://intranet.fema.net/org/oea @done(20-09-09 13:35)
+  friday 9/11
+  https://portalapps.fema.net/apps/R2-PTS ==> https://usfema.sharepoint.com/teams/R2PTS
+  https://intranet.fema.net/org/ocfo	==> https://usfema.sharepoint.com/sites/ocfo
+      https://portalapps.fema.net/apps/OCFOVendor17 ==> https://usfema.sharepoint.com/teams/OCFOVendor17
+
+
+  ✔ R10FIMANFIPB @done(20-10-14 17:40) @project(Migrations)
+  ✔ Business Sites	https://internal.fema.net/collab/NFIPB	https://usfema.sharepoint.com/teams/FIMANFIPB	9/25/2020	10/9/2020	10/12/2020 @done(20-10-14 17:40) @project(Migrations)
+  ✔ set banner @done(20-10-14 17:40) @project(Migrations)
+  ✔ R7Gtrack @done(20-10-09 21:30) @project(Migrations)
+  ✔ set site to read only @done(20-10-13 14:41) @project(Migrations)
+  ✔ R10ITFMI @done(20-10-09 21:30) @project(Migrations)
+  ✔ set site to read only @done(20-10-13 14:41) @project(Migrations)
+  ✔ R10DoGeo @done(20-10-09 21:30) @project(Migrations)
+  ✔ set site to read only @done(20-10-13 14:41) @project(Migrations)
+  ✔ R10HQ @done(20-10-09 21:30) @project(Migrations)
+  ✔ set site to read only @done(20-10-13 14:41) @project(Migrations)
+  ✔ running on A10 @done(20-10-09 21:32) @project(Migrations)
+  ✔ set site to read only @done(20-10-13 14:44) @project(Migrations)
+  ✔ incremental running on A10 @done(20-10-09 21:32) @project(Migrations.R10Training)
+  ✔ set site to read only @done(20-10-13 17:31) @project(Migrations.R10Training)
+  ✔ incremental running on 6A10 @done(20-10-09 21:40) @project(Migrations)
+  ✔ set site to read only @done(20-10-13 14:42) @project(Migrations)
+  ✔ test @done(20-10-13 13:02)
+  ✔ #18559 - Update ITAR workflwo to use ITCM instead of ITCS @done(20-10-09 20:04) @project(Tickets.ITAR-tickets)
+  ✔ #18751 - Updates to IT Acq Appendix G Site @done(20-10-09 20:04) @project(Tickets.ITAR-tickets)
+  ✔ #18767 - Updates to IT Acq Share Point Site Workflow @done(20-10-09 20:04) @project(Tickets.ITAR-tickets)
+  ✔ #18883 - Pull Comments mad on the ITAR in to the history log @done(20-10-09 20:05) @project(Tickets.ITAR-tickets)
+  ✔ #19064 - replicate the accorion menu for GPD @done(20-10-09 20:05) @project(Tickets)
+  ✔ #19009 - ceodisastersite creation - claire is setting the permissions @done(20-10-09 20:05) @project(Tickets)
+  ✔ DisasterCEOTool @done(20-10-09 20:05) @project(Tickets)
+  ✔ copy the template site from @done(20-10-09 20:05) @project(Tickets)
+  ✔ #18878 Unable to open the Site Pages library @done(20-10-09 20:05) @project(Tickets)
+  ✔ https://usfema.sharepoint.com/teams/EA/SitePages/default.aspx @done(20-10-09 20:05) @project(Tickets)
+  ✔ OPSEC Awareness Brief @done(20-09-30 17:22) @project(Other)
+  ✔ Unauthorized Disclosure of Classified or Unclassified Information Training @done(20-10-09 20:04) @project(Other)
+  ✔ Derivative Classification @done(20-10-09 20:04) @project(Other)
+  ✔ Cyber Awareness Challenge @done(20-10-09 20:04) @project(Other)
+  Business Sites 
+  https://internal.fema.net/collab/NFIPB ==> https://usfema.sharepoint.com/teams/FIMANFIPB	
+  p1- 9/25/2020	
+  ro-10/9/2020	
+  gl-10/12/2020
+  @status-Done
+  https://internal.fema.net/collab/r10/TRAINING ==> https://usfema.sharepoint.com/teams/r10training	
+  9/25/2020	
+  10/9/2020	
+  10/12/2020
+  @Status-  set banner @done(20-10-14 19:37)

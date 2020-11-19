@@ -1,0 +1,42 @@
+
+
+
+Migrations:
+    https://portalapps.fema.net/apps/employee_tools	==>https://usfema.sharepoint.com/teams/FEMAET
+        ✔ step 1 - layouts @done(20-09-03 16:33) @project(Migrations)
+        ✔ step 2 - structure @done(20-09-08 13:09) @project(Migrations)
+        ✔ step 3 - permisisons @done(20-09-09 16:41) @project(Migrations)
+        ✔ step 4 - content @done(20-09-14 13:44)
+        send email to feam-intranet when the job it complete
+        ☐ recopy permissions - overwrite existing ones.
+        ☐ step 5 - webparts
+        ☐ step 6 - incremental
+        ☐ run migration jobs
+        ☐ apply logo fix to site and subsites
+        ☐ check migration report for workflows and migrate
+        ☐ check infopath forms
+        ☐ fix page layouts
+        ☐ compate content
+        ☐ release to user testing
+    https://portalapps.fema.net/apps/R2-PTS ==> https://usfema.sharepoint.com/teams/R2PTS
+        ✔ run incremental - MWCT6A10 @done(20-09-11 17:54)
+        ✔ set to read only @done(20-09-11 18:39)
+        ✔ set 20200914 GOLIVE banner on old site @done(20-09-14 20:26)
+    https://intranet.fema.net/org/ocfo	==> https://usfema.sharepoint.com/sites/ocfo
+        ✔ run incremental - MWCT6A10 @done(20-09-11 17:53)
+        ✔ set to read only @done(20-09-11 18:40)
+        ✘ 20200914 set GOLIVE banner on old site @cancelled(20-09-15 12:55)
+    https://portalapps.fema.net/apps/OCFOVendor17 ==> https://usfema.sharepoint.com/teams/OCFOVendor17
+        ✔ run incremental - MWCT6A10 @done(20-09-11 17:52)
+   ✔ set to read only @done(20-09-11 18:42)
+        ✔ 20200914 set GOLIVE banner on old site @done(20-09-14 20:37)
+    https://portalapps.fema.net/apps/R2/Recovery/CommLogs ==> https://usfema.sharepoint.com/teams/R2Comm
+        ✔ Check on migration - should be going all weekend. @done(20-09-15 13:15)
+    20200904-https://intranet.fema.net/org/oa ==> https://usfema.sharepoint.com/sites/oai
+        Migration is on MWCT2W5
+        ✔ Start Incremental Migration @done(20-09-08 13:02)
+        ✔ Set 2010 site to read only @done(20-09-08 13:02)
+    20200904-https://intranet.fema.net/org/oea ==> https://usfema.sharepoint.com/sites/ea 
+        Migration is on MWCT2W5
+        ✔ Start Incremental Migrtaion @done(20-09-08 13:02)
+        ✔ Set 2010 site to read only @done(20-09-08 13:02)
